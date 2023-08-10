@@ -328,7 +328,7 @@ const CONFIG = {
       category: 'Other',
       name: 'Links',
       key: 'ls',
-      url: 'https://sites.google.com/view/vamp-niklaus/home',
+      url: 'http://vampniklaus.pythonanywhere.com/',
       color: 'linear-gradient(135deg,#000000,#FF0000)',
       icon: 'links',
       quickLaunch: true,
