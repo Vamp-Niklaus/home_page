@@ -165,8 +165,18 @@ const CONFIG = {
       icon: 'github',
       quickLaunch: true,
     },
-    {
+   {
       category: 'Programming',
+      name: 'InterviewBit',
+      key: 'w3',
+      url: 'https://www.interviewbit.com/profile/vamp_niklaus/',
+      search: '/results?search_query={}',
+      color: 'linear-gradient(135deg, #FFC107, #2196F3, #F44336)',
+      icon: 'interviewbit',
+      quickLaunch: true,
+    },
+    {
+      category: 'Fun',
       name: 'Monkeytype',
       key: 'mt',
       url: 'https://monkeytype.com/profile/vamp_niklaus',
