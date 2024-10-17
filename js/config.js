@@ -148,7 +148,7 @@ const CONFIG = {
       category: 'Programming',
       name: 'Coding Ninjas',
       key: 'cn',
-      url: 'https://www.codingninjas.com/studio/profile/vamp_niklaus',
+      url: 'https://www.naukri.com/code360/problems',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #00FF00)',
       icon: 'coding_ninjas',
