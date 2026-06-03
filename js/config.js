@@ -343,7 +343,15 @@ const CONFIG = {
       icon: 'links',
       quickLaunch: true,
     },
-       
+             {
+      category: 'Other',
+      name: 'Striver',
+      key: 'ls',
+      url: 'https://strivers.onrender.com/',
+      color: 'linear-gradient(135deg,#000000,#FF0000)',
+      icon: 'bookmarks',
+      quickLaunch: true,
+    },
 
     // {
     //   category: 'Other',
